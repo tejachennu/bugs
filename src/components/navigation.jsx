@@ -137,7 +137,7 @@ export const Navigation = ({ page }) => {
 
         <div className="collapse navbar-collapse " id="navbarText">
         {/* <div className="d-flex justify-content-center"> */}
-          <ul className="navbar-nav me-auto mb-2 mb-lg-0 d-flex justify-content-evenly nav-ul">
+          <ul className="navbar-nav me-auto mb-2 w-100 mb-lg-0 d-flex justify-content-evenly nav-ul">
             <li className="nav-item">
               <a
                 // href="#whyus"
